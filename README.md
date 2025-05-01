@@ -1,2 +1,2 @@
 # ai-lab
-AI Lab exercises for university
+AI lab exercises for university written in Google Colab
